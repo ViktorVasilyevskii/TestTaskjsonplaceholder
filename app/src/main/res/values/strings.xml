@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTask</string>
+
+    <string name="text_main_menu_albums">Альбомы</string>
+    <string name="text_main_menu_posts">Посты</string>
+
+    <string name="text_error_response_server">Ошибка сервера!</string>
+</resources>
